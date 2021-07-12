@@ -1,4 +1,10 @@
-### I do stuff (this readme is a todo) 
+### About Me!
+I am a highschooler in the USA.
+I dislike english and art class because it is creatively getting to a non defined answer, I like math and science because it is getting to a concrete and defined answer that you can usually tell if is correct or not, and I love coding as it is a mixture of the two; its a creative way of getting to a defined answer.
+
+I started off on Khan Academy learning JavaScript when I was 8-11 years old. I then slowed down and didn't work on many projects until I was 13-14. Next, I was introduced to modding for Beat Saber in C++ which I loved and have worked on the most. I create occasional small projects in Python though I dislike its whitespace dependency. I have used node.js to make a backend and website once on a Beat Saber multiplayer project that was hosted on Heroku. I also made a discord bot that is still running in the Beat Together discord server.
+
+That is the end of my terribly written essay (I say that but its only two paragraphs) about my coding experience.
 
 <!--
 **henwill8/henwill8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
