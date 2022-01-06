@@ -2,7 +2,7 @@
 
 ### About Me!
 I am a highschooler in the USA.
-I dislike english and art class because it is creatively getting to a non defined answer, I like math and science because it is getting to a concrete and defined answer that you can usually tell if is correct or not, and I love coding as it is a mixture of the two; its a creative way of getting to a defined answer.
+I am not great at graphic design, art, or english. My favorite school subject are math and science because there is a defined way to do something. I like rock climbing, mountain biking, and I program in pretty much all my spare time. Programming is a perfect mix between creativity and logical thinking.
 
 Languages:
 - C++ (main)
